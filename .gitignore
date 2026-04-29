@@ -1,0 +1,34 @@
+# 数据文件（不上传原始数据）
+*.csv
+*.xlsx
+*.xls
+data/*
+*.zip
+*.rar
+
+# 图片缓存
+*.png~
+*.jpg~
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.env
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+tmp/
+temp/
+
+# IDE 文件
+.idea/
+.vscode/
+*.swp
+*.swo
